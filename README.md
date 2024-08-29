@@ -1,6 +1,4 @@
-Finding the endless possibilities offered by the web fascinating, I keep exploring the boundaries of modern front-end features by designing and developing interfaces ranging from straightforwardly informative sites to more conceptual visual ideas focussing on interactivity, 3D, and randomization. 
-
-Programmatically crafted in Berlin. ❇️
+Finding the endless possibilities offered by the web fascinating, I keep exploring the boundaries of modern front-end features by designing and developing interfaces ranging from straightforwardly informative sites to more conceptual visual ideas focussing on interactivity, 3D, and randomization. Programmatically crafted in Berlin. ❇️
 <!--
 **ff87c3/ff87c3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
