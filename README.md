@@ -1,4 +1,6 @@
-## Hi there 👋
+Finding the endless possibilities offered by the web fascinating, I keep exploring the boundaries of modern front-end features by designing and developing custom interfaces ranging from straightforwardly informative sites to more visually experimental and conceptual ideas. 
+
+Programmatically made in Berlin with a focus on interactivity, 3D, and randomization. 
 
 <!--
 **ff87c3/ff87c3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
