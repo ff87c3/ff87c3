@@ -1,8 +1,10 @@
-Finding the endless possibilities offered by the web fascinating, I keep exploring the boundaries of modern front-end features by designing and developing (with Javascript, React, Three.js) interfaces ranging from straightforwardly informative sites to more conceptual visual ideas focussing on interactivity, 3D, and randomization. Programmatically made in Berlin. #ff87c3
+Fascinated by the endless web possibilities, I continually explore the boundaries of modern front-end features by designing and developing interfaces with JavaScript, React, Three.js. My work ranges from straightforwardly informative sites to more conceptual visual projects focusing on interactivity, 3D, and randomization. Programmatically made in Berlin. #ff87c3
 <!--
 **ff87c3/ff87c3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+Finding the endless possibilities offered by the web fascinating, I keep exploring the boundaries of modern front-end features by designing and developing (with Javascript, React, Three.js) interfaces ranging from straightforwardly informative sites to more conceptual visual ideas focussing on interactivity, 3D, and randomization.`
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
